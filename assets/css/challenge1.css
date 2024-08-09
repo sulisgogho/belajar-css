@@ -1,0 +1,146 @@
+.box1 .p1 {
+  background-color: #d1e2ff;
+  padding: 15px;
+  margin: 20px;
+  border-color: blue;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+}
+.box1 .p2 {
+  background-color: #e2e3e5;
+  padding: 15px;
+  margin: 20px;
+  border-color: #8b8c8c;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.box1 .p3 {
+  background-color: #d1e6dd;
+  padding: 15px;
+  margin: 20px;
+  border-color: #1c7853;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #143226;
+}
+
+.box1 .p4 {
+  background-color: #fad7db;
+  padding: 15px;
+  margin: 20px;
+  border-color: #da283d;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #da283d;
+}
+
+.box1 .p5 {
+  background-color: #fff3cd;
+  padding: 15px;
+  margin: 20px;
+  border-color: #e0b32b;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #624f15;
+}
+
+.box1 .p6 {
+  background-color: #cff4fc;
+  padding: 15px;
+  margin: 20px;
+  border-color: #13b1c0;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #0c5259;
+}
+
+.box1 .p7 {
+  background-color: #fcfcfc;
+  padding: 15px;
+  margin: 20px;
+  border-color: #dcdcdc;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #484c55;
+}
+
+.box1 .p8 {
+  background-color: #cfd3dc;
+  padding: 15px;
+  margin: 20px;
+  border-color: #484c55;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 1px;
+  color: #484c55;
+}
+
+.btn-1 {
+  margin: 10px 10px 10px 20px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #0d6efd;
+  color: white;
+  border: none;
+}
+
+.btn-2 {
+  margin: 10px 10px 10px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #6d747e;
+  color: white;
+  border: none;
+}
+
+.btn-3 {
+  margin: 10px 10px 10px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #188754;
+  color: white;
+  border: none;
+}
+
+.btn-4 {
+  margin: 10px 10px 10px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #dc3546;
+  color: white;
+  border: none;
+}
+
+.btn-5 {
+  margin: 10px 10px 10px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #fec107;
+  color: black;
+  border: none;
+}
+.btn-6 {
+  margin: 10px 10px 10px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #10caf0;
+  color: black;
+  border: none;
+}
+
+.btn-7 {
+  margin: 10px 10px 10px 0px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f8f9fb;
+  color: black;
+  border: none;
+}
