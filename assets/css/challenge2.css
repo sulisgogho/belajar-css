@@ -28,6 +28,18 @@ body {
   transition: all 0.3s;
 }
 
+elemen.style {
+  width: 100%;
+  height: 100%;
+  transform: translate3d(0px, 0px, 0px);
+  content-visibility: visible;
+}
+
+svg {
+  display: block;
+  color: currentColor;
+}
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -81,4 +93,50 @@ li {
 
 a {
   color: inherit;
+}
+
+.nav-button {
+  padding: 0.95em 1.25em 0.8em;
+  border-radius: 10px;
+  border: 2px solid;
+  background-color: #f9f4ed;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 10px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  letter-spacing: 0.1rem;
+}
+
+.tagline-3 {
+  margin-top: 5rem;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: line-through;
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+
+.tagline-1 {
+  margin: 0;
+  font-size: 8em;
+  text-align: center;
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  letter-spacing: -0.4rem;
+  line-height: 8rem;
+}
+
+.tagline-2 {
+  display: flex;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+  width: 40%;
+  text-align: center;
+  font-weight: 500;
+  justify-content: center;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
 }
